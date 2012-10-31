@@ -1,0 +1,11 @@
+VertexLitGeneric
+{
+$baseTexture "models/cores/glad/personality_sphere_glass"
+
+$translucent 1
+
+
+
+
+
+}

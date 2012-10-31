@@ -1,0 +1,17 @@
+VertexlitGeneric
+{
+$basetexture "models\cores\cave\personality_sphere_light"
+$selfillum 1
+
+
+
+
+
+Proxies
+{
+LightedMouth
+{
+resultVar $selfillumtint
+}
+}
+}
